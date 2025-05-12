@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+}
+.umacoisa {
+    color: white;
+}
+.outra{
+    color: #22D4FD;
+}
+.prg1 {
+    font-family: "Montserrat";
+    color: white;
+    text-align: justify;
+}
+.Tudo {
+    font-family: "Krona One";
+}
+a{
+    font-family: "Montserrat";
+    text-decoration: none;
+}
+.marcacao1{
+    background-color: #22D4FD;
+    width: 280px;
+    height: 70px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: "Montserrat";
+    font-weight: bold;
+    position: relative;
+    top: 71px;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+
+}
+.marcacao2 {
+    font-family: "Montserrat";
+    background-color: #22D4FD;
+    width: 280px;
+    height: 70px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    position: relative;
+    left: 358px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.umafoto {
+    position: relative;
+    left: 880px;
+    top: -300px
+}
+.textos {
+    top: 70px;
+    position: relative;
+    word-break: break-all;
+    left: 98px;
+    
+}
+a:hover {
+    color: aliceblue;
+}
+a:active {
+    color:bisque;
+}
+
+
